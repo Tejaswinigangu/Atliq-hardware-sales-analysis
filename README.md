@@ -2,8 +2,8 @@
 ## Sales Report:
 
 - **Project Objectives:**
-    1. Create a comprehensive [customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).
-    2. Compare [market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).
+    1. Create a comprehensive customer performance report.
+    2. Compare market performance and sales targets.
 
 - **Purpose of Sales Analytics:** Enable businesses to monitor and evaluate their sales activities and performance effectively.
 
@@ -14,8 +14,8 @@
 ## Finance Report:
 
 - **Project Objectives:**
-    1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and [Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf).
-    2. Create Profit and Loss (P&L) reports by [Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf).
+    1. Create Profit and Loss (P&L) reports by fiscal year and months.
+    2. Create Profit and Loss (P&L) reports by markets.
 
 - **Purpose of Financial Analytics:** Evaluate financial performance, support decision-making, and facilitate communication with stakeholders.
 
